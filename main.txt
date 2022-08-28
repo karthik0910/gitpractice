@@ -1,2 +1,9 @@
+<<<<<<< HE
  changes from txt
  This is amain
+=====
+This is amain
+
+
+
+>>>>>>> 10d7b83fe9e5c47bc5a7fb23efed326447343f4e
